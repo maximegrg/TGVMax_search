@@ -1,7 +1,7 @@
 ﻿# TGVMax_search
 
 <div align="center">
-  ![TGVMax](https://user-images.githubusercontent.com/57716360/182037565-b0c7f3f2-d449-474e-b0d8-fadc6d066e70.jpg)
+  ![TGVMax](resources/TGVMax.jpg)
 </div>
 
 
