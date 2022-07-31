@@ -1,10 +1,4 @@
 ﻿# TGVMax_search
-
-<div align="center">
-  ![TGVMax](resources/TGVMax.jpg)
-</div>
-
-
 A python script that automatically search for TGV Max seats for the selected dates.
 
 
